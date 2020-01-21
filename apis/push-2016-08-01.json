@@ -254,6 +254,9 @@
 					"AndroidNotificationBarType": {
 						"type": "integer"
 					},
+					"AndroidNotificationChannel": {
+						"type": "string"
+					},
 					"AndroidNotificationBarPriority": {
 						"type": "integer"
 					},
